@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to a website made by somebody who hates Fortnite.
 
 You can use the [editor on GitHub](https://github.com/Kathan0253/website-thing-idk/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Stuff to big for my brain
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I cant do this stuff, I am more into the hardware side of these things.
 
 ```markdown
 Syntax highlighted code block
